@@ -24,6 +24,13 @@ digital products.
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
+  <img alt="Contribution calendar for the last year, drawn as a heat map." src="assets/contributions-light.svg" width="100%">
+</picture>
+
+---
+
 **[Portfolio](https://paryabahrami.ir)** &nbsp;·&nbsp;
 [LinkedIn](https://linkedin.com/in/paryabhrmi) &nbsp;·&nbsp;
 [Email](mailto:paryabhrmii@gmail.com)
