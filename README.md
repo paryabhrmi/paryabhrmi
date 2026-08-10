@@ -1,10 +1,10 @@
-![A classical painting of a woman in a red dress flying through clouds, her outstretched hand dissolving into a field of typographic characters. A golden-ratio spiral and its construction grid are drawn over the left half, with the word "Design" set in script beside it.](banner.jpg)
+<a href="https://paryabahrami.ir">
+  <img src="banner.jpg" alt="A classical painting of a woman in a red dress flying through clouds, her outstretched hand dissolving into a field of typographic characters. A golden-ratio spiral and its construction grid are drawn over the left half, with the word Design set in script beside it." width="100%">
+</a>
 
-**Product Designer & Design Technologist**
+### Product Designer &amp; Design Technologist
 
-## About
-
-I design products where behavior, systems, and technology meet.
+**I design products where behavior, systems, and technology meet.**
 
 My work begins before the interface. I frame ambiguous problems, study users and
 markets, define product logic, and turn ideas into testable, scalable, and
@@ -24,6 +24,6 @@ digital products.
 
 ---
 
-[paryabahrami.ir](https://paryabahrami.ir) ·
-[LinkedIn](https://linkedin.com/in/paryabhrmi) ·
-[paryabhrmii@gmail.com](mailto:paryabhrmii@gmail.com)
+**[Portfolio](https://paryabahrami.ir)** &nbsp;·&nbsp;
+[LinkedIn](https://linkedin.com/in/paryabhrmi) &nbsp;·&nbsp;
+[Email](mailto:paryabhrmii@gmail.com)
