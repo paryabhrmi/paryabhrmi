@@ -1,3 +1,5 @@
+![A classical painting of a woman in a red dress flying through clouds, her outstretched hand dissolving into a field of typographic characters. A golden-ratio spiral and its construction grid are drawn over the left half, with the word "Design" set in script beside it.](banner.jpg)
+
 **Product Designer & Design Technologist**
 
 ## About
