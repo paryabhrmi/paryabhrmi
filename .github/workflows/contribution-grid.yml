@@ -4,9 +4,12 @@ name: Contribution grid
 # The SVGs are committed, so the README serves them from this repository
 # rather than calling a third-party service on every page view.
 
+# The daily schedule is off while the README does not show the grid, so the
+# repository does not collect a bot commit every morning for an unused asset.
+# Uncomment the two schedule lines to resume it.
 on:
-  schedule:
-    - cron: "17 3 * * *"
+  # schedule:
+  #   - cron: "17 3 * * *"
   workflow_dispatch:
 
 permissions:
